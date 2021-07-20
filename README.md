@@ -1,2 +1,2 @@
-# class108
-This is my class 108 creating graphs. 
+# Normal-Distribution
+solution for c108
